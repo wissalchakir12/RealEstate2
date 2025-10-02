@@ -1,0 +1,70 @@
+PROPERTY VALUATION TEST DATA
+=============================
+
+Property Details:
+- Address: 123 Oak Street, Downtown District, Metro City
+- Property Type: Single Family Home
+- Bedrooms: 4
+- Bathrooms: 3.5
+- Square Footage: 2,400 sq ft
+- Lot Size: 0.25 acres
+- Year Built: 2018
+- Garage: 2-car attached
+- Pool: Yes (in-ground)
+- Recent Renovations: Kitchen updated 2022, HVAC replaced 2021
+
+Market Analysis Request:
+- Current market conditions in Downtown District
+- Comparable sales in the last 6 months
+- Price per square foot trends
+- Neighborhood appreciation rates
+- Investment potential analysis
+
+Property Condition Assessment:
+- Overall condition: Good
+- Roof: 5 years old, excellent condition
+- HVAC: 3 years old, energy efficient
+- Electrical: Updated to code, 200 amp service
+- Plumbing: Copper pipes, no issues
+- Foundation: Concrete slab, no cracks
+- Exterior: Brick and vinyl siding, well maintained
+
+Financial Information:
+- Current asking price: $650,000
+- Property taxes: $8,500/year
+- HOA fees: $150/month
+- Insurance estimate: $2,200/year
+- Recent appraisals: $620,000 (2023), $580,000 (2022)
+
+Market Trends:
+- Average days on market: 28 days
+- Price appreciation: 8% annually over 3 years
+- Inventory levels: Low (2.1 months supply)
+- Buyer demand: High
+- Interest rates: 6.5% (30-year fixed)
+
+Comparable Properties:
+1. 145 Pine Street - 4/3, 2,350 sq ft - Sold $635,000 (3 months ago)
+2. 89 Maple Avenue - 4/3.5, 2,500 sq ft - Sold $675,000 (2 months ago)
+3. 201 Elm Drive - 3/2.5, 2,200 sq ft - Sold $595,000 (4 months ago)
+
+Investment Analysis:
+- Potential rental income: $3,200/month
+- Cap rate: 5.2%
+- Cash flow: $1,800/month (after expenses)
+- ROI: 12.5%
+- Appreciation potential: High
+
+Risk Factors:
+- Market volatility: Medium
+- Location desirability: High
+- Property condition: Good
+- Economic factors: Stable
+- Zoning: Residential, stable
+
+Recommendations:
+- Market timing: Good
+- Pricing strategy: Competitive
+- Marketing approach: Highlight recent renovations
+- Target buyers: Young professionals, families
+- Negotiation strategy: Firm on price, flexible on terms
